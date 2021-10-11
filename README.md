@@ -121,7 +121,7 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![AexByte](https://github.com/aexbyte.png?size=100)](https://github.com/aexbyte)
 ----|----
 [Nurutomo](https://github.com/Nurutomo) | [AexByte](https://github.com/aexbyte)
  Penulis / Pencipta | Penulis ulang
